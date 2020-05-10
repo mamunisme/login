@@ -1,0 +1,4 @@
+#Sun May 10 18:30:26 WIB 2020
+base.0=/Users/mamunisme/Development/mentoring_flutter/login/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
